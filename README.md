@@ -1,2 +1,3 @@
 # Git-Practice
-This is the Repository for Practicing Git . Utkarsh Mishra
+This is the Repository for Practicing Git . 
+<br> Utkarsh Mishra
